@@ -1,0 +1,38 @@
+h1,p{
+    text-align: center;
+  }
+  
+  label{
+    display: block;
+    margin: 0.5rem 0;
+  }
+  
+  input{
+    width: 100%
+  }
+  input[name="recommend"] {
+    width: 10px
+  }
+  
+  fieldset{
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  input[type="checkbox"]{
+    width: 
+  }
+  
+  .inline{
+    width: unset;
+    margin-top: -100px;
+  }
+  
+  input[type="submit"]{
+    width: auto;
+    display: block;
+    margin: auto;
+    height: 2em;
+    min-width: 300px;
+    
+  }
